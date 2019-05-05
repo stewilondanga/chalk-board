@@ -99,14 +99,14 @@ textarea {
   resize: none;
 }
 
-/*input[type="submit"] {
-		cursor: pointer;
-		color: rgba(238, 238, 238, 0.7);
-		line-height: 1em;
-		padding: 0;
+input[type="submit"] {
+  cursor: pointer;
+  color: rgba(238, 238, 238, 0.7);
+  line-height: 1em;
+  padding: 0;
 }
 
-input[type="submit"]:focus {
+/*input[type="submit"]:focus {
 		background: rgba(238, 238, 238, 0.2);
 		color: rgba(238, 238, 238, 0.2);
 }
