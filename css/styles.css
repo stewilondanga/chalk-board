@@ -68,14 +68,14 @@ p {
   margin-bottom: 1em;
 }
 
-/*label {
-		vertical-align: middle;
-		font-family: 'Permanent Marker', cursive;
-		font-size: 1.6em;
-		color: rgba(238, 238, 238, 0.7);
+label {
+  vertical-align: middle;
+  font-family: 'Permanent Marker', cursive;
+  font-size: 1.6em;
+  color: rgba(238, 238, 238, 0.7);
 }
 
-p:nth-of-type(5) > label {
+/*p:nth-of-type(5) > label {
 		vertical-align: top;
 }
 
