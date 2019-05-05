@@ -92,14 +92,14 @@ textarea {
   outline: none;
 }
 
-/*textarea {
-		height: 120px;
-		font-size: 1.4em;
-		line-height: 1em;
-		resize: none;
+textarea {
+  height: 120px;
+  font-size: 1.4em;
+  line-height: 1em;
+  resize: none;
 }
 
-input[type="submit"] {
+/*input[type="submit"] {
 		cursor: pointer;
 		color: rgba(238, 238, 238, 0.7);
 		line-height: 1em;
