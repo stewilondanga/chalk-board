@@ -75,11 +75,11 @@ label {
   color: rgba(238, 238, 238, 0.7);
 }
 
-/*p:nth-of-type(5) > label {
-		vertical-align: top;
+p:nth-of-type(5)>label {
+  vertical-align: top;
 }
 
-input,
+/*input,
 textarea {
 		vertical-align: middle;
 		padding-left: 10px;
