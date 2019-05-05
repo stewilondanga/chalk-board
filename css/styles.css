@@ -111,13 +111,13 @@ input[type="submit"]:focus {
   color: rgba(238, 238, 238, 0.2);
 }
 
-/*::-moz-selection {
-		background: rgba(238, 238, 238, 0.2);
-		color: rgba(238, 238, 238, 0.2);
-		text-shadow: none;
+::-moz-selection {
+  background: rgba(238, 238, 238, 0.2);
+  color: rgba(238, 238, 238, 0.2);
+  text-shadow: none;
 }
 
-::selection {
+/*::selection {
 		background: rgba(238, 238, 238, 0.4);
 		color: rgba(238, 238, 238, 0.3);
 		text-shadow: none;
