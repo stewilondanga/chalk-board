@@ -106,12 +106,12 @@ input[type="submit"] {
   padding: 0;
 }
 
-/*input[type="submit"]:focus {
-		background: rgba(238, 238, 238, 0.2);
-		color: rgba(238, 238, 238, 0.2);
+input[type="submit"]:focus {
+  background: rgba(238, 238, 238, 0.2);
+  color: rgba(238, 238, 238, 0.2);
 }
 
-::-moz-selection {
+/*::-moz-selection {
 		background: rgba(238, 238, 238, 0.2);
 		color: rgba(238, 238, 238, 0.2);
 		text-shadow: none;
