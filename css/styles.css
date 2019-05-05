@@ -79,20 +79,20 @@ p:nth-of-type(5)>label {
   vertical-align: top;
 }
 
-/*input,
+input,
 textarea {
-		vertical-align: middle;
-		padding-left: 10px;
-		background: none;
-		border: none;
-		font-family: 'Permanent Marker', cursive;
-		font-size: 1.6em;
-		color: rgba(238, 238, 238, 0.8);
-		line-height: .6em;
-		outline: none;
+  vertical-align: middle;
+  padding-left: 10px;
+  background: none;
+  border: none;
+  font-family: 'Permanent Marker', cursive;
+  font-size: 1.6em;
+  color: rgba(238, 238, 238, 0.8);
+  line-height: .6em;
+  outline: none;
 }
 
-textarea {
+/*textarea {
 		height: 120px;
 		font-size: 1.4em;
 		line-height: 1em;
